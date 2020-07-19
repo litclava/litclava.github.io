@@ -1,0 +1,65 @@
+[18-Jan-2020 18:35:21 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:35:21 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:35:21 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:41:48 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:41:48 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:41:48 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:41:59 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:41:59 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:41:59 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:43:05 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:43:05 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:43:05 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:43:22 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:43:22 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:43:22 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:45:24 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:45:24 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:45:24 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:46:02 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:46:02 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:46:02 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:46:45 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:46:45 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:46:45 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:46:53 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:46:53 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:46:53 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:48:12 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:48:12 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:48:12 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:48:17 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:48:17 Etc/GMT] PHP Warning:  require(PHPMailer_5.2.0/class.phpmailer.php): failed to open stream: No such file or directory in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:48:17 Etc/GMT] PHP Fatal error:  require(): Failed opening required 'PHPMailer_5.2.0/class.phpmailer.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/graduateresults/public_html/hack/maillink.php on line 21
+[18-Jan-2020 18:49:36 Etc/GMT] PHP Notice:  Undefined index: username in /home/graduateresults/public_html/hack/maillink.php on line 51
+[18-Jan-2020 18:50:08 Etc/GMT] PHP Notice:  Undefined index: username in /home/graduateresults/public_html/hack/maillink.php on line 51
+[18-Jan-2020 18:50:21 Etc/GMT] PHP Notice:  Undefined index: username in /home/graduateresults/public_html/hack/maillink.php on line 51
+[18-Jan-2020 18:51:06 Etc/GMT] PHP Notice:  Undefined index: username in /home/graduateresults/public_html/hack/maillink.php on line 51
+[18-Jan-2020 18:51:31 Etc/GMT] PHP Notice:  Undefined index: username in /home/graduateresults/public_html/hack/maillink.php on line 51
+[18-Jan-2020 22:55:39 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 115
+[18-Jan-2020 22:55:57 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 115
+[18-Jan-2020 22:57:13 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 115
+[18-Jan-2020 22:57:37 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 115
+[18-Jan-2020 22:58:10 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 114
+[18-Jan-2020 23:01:38 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 114
+[19-Jan-2020 01:06:01 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 125
+[19-Jan-2020 03:26:48 Etc/GMT] PHP Notice:  Undefined index: title in /home/graduateresults/public_html/hack/addtoblog.php on line 131
+[19-Jan-2020 03:26:48 Etc/GMT] PHP Notice:  Undefined index: name in /home/graduateresults/public_html/hack/addtoblog.php on line 132
+[19-Jan-2020 03:26:48 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 133
+[19-Jan-2020 03:26:53 Etc/GMT] PHP Notice:  Undefined index: title in /home/graduateresults/public_html/hack/addtoblog.php on line 131
+[19-Jan-2020 03:26:53 Etc/GMT] PHP Notice:  Undefined index: name in /home/graduateresults/public_html/hack/addtoblog.php on line 132
+[19-Jan-2020 03:26:53 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 133
+[19-Jan-2020 03:30:19 Etc/GMT] PHP Notice:  Undefined index: title in /home/graduateresults/public_html/hack/addtoblog.php on line 131
+[19-Jan-2020 03:30:19 Etc/GMT] PHP Notice:  Undefined index: name in /home/graduateresults/public_html/hack/addtoblog.php on line 132
+[19-Jan-2020 03:30:19 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 133
+[19-Jan-2020 03:33:29 Etc/GMT] PHP Notice:  Undefined index: title in /home/graduateresults/public_html/hack/addtoblog.php on line 131
+[19-Jan-2020 03:33:29 Etc/GMT] PHP Notice:  Undefined index: name in /home/graduateresults/public_html/hack/addtoblog.php on line 132
+[19-Jan-2020 03:33:29 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 133
+[19-Jan-2020 03:38:42 Etc/GMT] PHP Notice:  Undefined index: title in /home/graduateresults/public_html/hack/addtoblog.php on line 131
+[19-Jan-2020 03:38:42 Etc/GMT] PHP Notice:  Undefined index: name in /home/graduateresults/public_html/hack/addtoblog.php on line 132
+[19-Jan-2020 03:38:42 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 133
+[19-Jan-2020 03:48:21 Etc/GMT] PHP Notice:  Undefined index: name in /home/graduateresults/public_html/hack/addtoblog.php on line 133
+[19-Jan-2020 03:48:21 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 134
+[19-Jan-2020 04:07:59 Etc/GMT] PHP Notice:  Undefined index: title in /home/graduateresults/public_html/hack/addtoblog.php on line 132
+[19-Jan-2020 04:07:59 Etc/GMT] PHP Notice:  Undefined index: name in /home/graduateresults/public_html/hack/addtoblog.php on line 133
+[19-Jan-2020 04:07:59 Etc/GMT] PHP Notice:  Undefined index: content in /home/graduateresults/public_html/hack/addtoblog.php on line 134

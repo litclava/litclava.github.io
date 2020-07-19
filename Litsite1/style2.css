@@ -1,0 +1,148 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family:sans-serif;
+}
+.container1
+{
+	width: 80vw;
+	height: 50vh;
+	display: flex;
+	box-sizing: border-box;
+}
+.container1 .box1
+{
+	width: 50vw;
+	text-align: center;
+	line-height: 50vh;
+	flex-grow: 1;
+	background-size: cover;
+	background-position: center;
+	transition: 1s;
+	
+}
+.container1 .box2
+{
+	width: 50vw;
+	text-align: center;
+	line-height: 50vh;
+	flex-grow: 1;
+	background-size: cover;
+	background-position: center;
+	transition: 1s;
+	
+}
+.container1 .box3
+{
+	width: 50vw;
+	text-align: center;
+	line-height: 50vh;
+	flex-grow: 1;
+	background-size: cover;
+	background-position: center;
+	transition: 1s;
+	
+}
+#head1
+{
+	margin: 0;
+	padding: 0;
+	line-height: 50vh;
+	font-size: 2em;
+	background: rgba(0,0,0,.8);
+	transition: .5s;
+}
+#head1 #span1
+{
+	background: rgba(255,255,255,0);
+	width: 100%;
+	transition: 1s;
+	color: #fff;
+	padding: 25px 20px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+.box1:hover #head1 #span1
+{
+	color: #262626;
+	background: rgba(255,255,255,.9);
+	letter-spacing: 10px;
+	box-shadow: 0 5px 15px rgba(0,0,0,.5);	
+}
+.box1:hover #head1
+{
+	background: rgba(0,0,0,0);
+}
+.box1:hover
+{
+	width: 100vw;
+}
+.box2:hover #head1 #span1
+{
+	color: #262626;
+	background: rgba(255,255,255,.9);
+	letter-spacing: 10px;
+	box-shadow: 0 5px 15px rgba(0,0,0,.5);	
+}
+.box2:hover #head1
+{
+	background: rgba(0,0,0,0);
+}
+.box2:hover
+{
+	width: 100vw;
+}
+.box3:hover #head1 #span1
+{
+	color: #262626;
+	background: rgba(255,255,255,.9);
+	letter-spacing: 10px;
+	box-shadow: 0 5px 15px rgba(0,0,0,.5);	
+}
+.box3:hover #head1
+{
+	background: rgba(0,0,0,0);
+}
+.box3:hover
+{
+	width: 100vw;
+}
+.container1 .box1:nth-child(1)
+{
+	background: url(1.jpg);
+}
+.container1 .box1:nth-child(2)
+{
+	background: url(2.jpg);
+}
+.container1 .box1:nth-child(3)
+{
+	background: url(3.jpg);
+	
+}
+.container1 .box1:nth-child(4)
+{
+	background: url(7.png);
+	
+}
+.container1 .box2:nth-child(1)
+{
+	background: url(5.jpg);
+}
+.container1 .box2:nth-child(2)
+{
+	background: url(4.jpg);
+}
+.container1 .box2:nth-child(3)
+{
+	background: url(6.jpg);
+}
+.container1 .box3:nth-child(1)
+{
+	background: url(8.jpg);
+}
+.container1 .box3:nth-child(2)
+{
+	background: url(7.png);
+}
+
